@@ -5,6 +5,7 @@ This report analyzes Adventure’s sales performance to provide real-time insigh
 
 ## Dashboard
 <img width="865" height="489" alt="Image" src="https://github.com/user-attachments/assets/0a585c6d-9eb5-4a43-9e2c-fc96031a28ce" />
-
+## Ge
+<img width="831" height="473" alt="Image" src="https://github.com/user-attachments/assets/0b18af1e-f77e-423e-a8ac-7dfc67340cfd" />
 
 
