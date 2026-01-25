@@ -1,5 +1,6 @@
+# ADVENTURE-WORKS-SALES-DASHBOARD-
 ![Image](https://github.com/user-attachments/assets/a2957299-6c8f-469a-bcb7-bfd7e3273289)
-# ADVENTURE-WORKS-SALES-DASHBOARD-Product-Lifecycle-Profitability-Analysis
+# Product-Lifecycle-Profitability-Analysis
 This report analyzes Adventure’s sales performance to provide real-time insights for strategic decision-making. It tracks profitability across product categories and customer segments over time, helping identify growth opportunities, manage seasonal revenue declines, and understand customer spending behavior.
 
 Adventure Works is a global company that manufacturer and retails bikes and related components. The company sells its products in North America, Europe, and Oceania, among other locations.
