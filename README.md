@@ -9,10 +9,8 @@ Throughout the project, these questions will drive our analysis: which product g
 The analysis is based on the Adventure Works 2022 database, which contains different tables such as product management, HR and sales operations, manufacturing and purchasing and customer orders. The dataset combines sales data from 2011 to 2014.
 
 To conduct the analysis, the key schema included:
-
-Sales: Orders, Invoices, Customers, Sales Territory.
-
-Production: Production Product
+- Sales: Orders, Invoices, Customers, Sales Territory.
+- Production: Production Product
 
 ## ETL Process 
 This process describes the various steps taken from ETL to analysis.
