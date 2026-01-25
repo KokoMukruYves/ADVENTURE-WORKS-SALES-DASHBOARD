@@ -34,10 +34,6 @@ To ensure that the different schemas were not in silos, relationships were estab
 
 After ensuring that all the data is safeguarded from messes, developing interactive dashboard follows using KPI, line charts, matrix, gauge, sheep map, and tree map. 
 
-## Link to access the interactive Dashboard
-
-https://app.powerbi.com/links/K2dMandbYQ?ctid=941bbf5f-f2c0-4875-a24c-6907865d251a&pbi_source=linkShare
-
 ## Dashboard overview
 <img width="865" height="490" alt="Image" src="https://github.com/user-attachments/assets/9acefa34-adec-4ae1-b9fa-f66959db7206" />
 
@@ -83,5 +79,7 @@ For the specific case of Adventure, some of its subcategory products were at int
 
 ![Image](https://github.com/user-attachments/assets/a2957299-6c8f-469a-bcb7-bfd7e3273289)
 
-# All right 
-## Koko Mukuru Yves
+
+## Link to access the interactive Dashboard
+
+https://app.powerbi.com/links/K2dMandbYQ?ctid=941bbf5f-f2c0-4875-a24c-6907865d251a&pbi_source=linkShare
