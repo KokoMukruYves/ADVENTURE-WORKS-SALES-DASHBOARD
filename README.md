@@ -3,9 +3,12 @@ This report analyzes Adventure’s sales performance to provide real-time insigh
 ## Adventure Logo
 ![Image](https://github.com/user-attachments/assets/cc8d80bb-1f7e-4d23-a8e9-aeba1cd99b11)
 
-## Dashboard
-<img width="865" height="489" alt="Image" src="https://github.com/user-attachments/assets/0a585c6d-9eb5-4a43-9e2c-fc96031a28ce" />
-## Ge
-<img width="831" height="473" alt="Image" src="https://github.com/user-attachments/assets/0b18af1e-f77e-423e-a8ac-7dfc67340cfd" />
-
+## Dashboard overview
+<img width="865" height="490" alt="Image" src="https://github.com/user-attachments/assets/9acefa34-adec-4ae1-b9fa-f66959db7206" />
+## Profitability Analysis Dashboard
+<img width="768" height="438" alt="Image" src="https://github.com/user-attachments/assets/af312a7c-07d6-42e0-9df1-35e71cdfa453" />
+### Geographical Analysis Dashboard
+<img width="770" height="436" alt="Image" src="https://github.com/user-attachments/assets/09d44654-7901-4118-9e0f-1efef6ce1401" />
+##Executive Summary
+<img width="770" height="427" alt="Image" src="https://github.com/user-attachments/assets/42aab498-2ad9-4c50-942b-1df6d066f342" />
 
