@@ -1,10 +1,47 @@
   #                                   ADVENTURE WORKS SALES DASHBOARD
 
-  <details>
-  <summary>Click to expand Table of Contents</summary>
+<details>
+<summary>Click to expand Table of Contents</summary>
 
-- [Introduction](#introduction)
+- [Introduction](#introduction)  
+- [Product Lifecycle Profitability Analysis](#product-lifecycle-profitability-analysis)  
+- [ETL Process](#etl-process)  
+- [Dashboard Overview](#dashboard-overview)  
+- [Results / Insights](#results--insights)  
+
+</details>
+
+---
+## Introduction
+Adventure Works is a global company that manufactures and retails bikes and related components. The company sells its products in North America, Europe, and Oceania.  
+
+This project presents an **interactive Power BI dashboard** analyzing Adventure’s sales performance. It provides **real-time insights for strategic decision-making**, tracking profitability across product categories and customer segments over time.  
+
+The analysis is based on the **Adventure Works 2022 database**, combining sales data from 2011 to 2014 across multiple schemas:  
+- **Sales**: Orders, Invoices, Customers, Sales Territory  
+- **Production**: Product Management  
+
+Key business questions addressed:  
+- Which product generates the most revenue?  
+- How does sales growth vary over time?  
+- What are the forecasted trends for future demand and revenue?  
+
+---
+
 # Product Lifecycle Profitability Analysis
+
+## 📈 Product Lifecycle Profitability Analysis
+This report dives deep into Adventure’s sales performance, helping decision-makers:  
+- Identify growth opportunities  
+- Manage seasonal revenue declines  
+- Understand customer spending behavior  
+- Personalize marketing and retention strategies  
+
+By tracking performance across products, geographies, and customer segments, the dashboard provides **actionable insights into business performance**.
+
+---
+
+
 This report analyzes Adventure’s sales performance to provide real-time insights for strategic decision-making. It tracks profitability across product categories and customer segments over time, helping identify growth opportunities, manage seasonal revenue declines, and understand customer spending behavior.
 
 Adventure Works is a global company that manufacturer and retails bikes and related components. The company sells its products in North America, Europe, and Oceania, among other locations.
