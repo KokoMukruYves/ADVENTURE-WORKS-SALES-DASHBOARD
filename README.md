@@ -1,6 +1,6 @@
   #                                   ADVENTURE WORKS SALES DASHBOARD
 
-<summary>Click to expand Table of Contents</summary>
+<summary> Table of Contents</summary>
 
 - [Introduction](#introduction)  
 - [Product Lifecycle Profitability Analysis](#product-lifecycle-profitability-analysis)  
