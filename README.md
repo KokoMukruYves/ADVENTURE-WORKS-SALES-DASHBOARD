@@ -12,7 +12,9 @@
 
 ---
 
-## Introduction 
+
+<details>
+<summary id="introduction">📌 Introduction</summary>
 
 Adventure Works is a global company that manufactures and retails bikes and related components. The company sells its products in North America, Europe, and Oceania.  
 
@@ -27,9 +29,11 @@ Key business questions addressed:
 - How does sales growth vary over time?  
 - What are the forecasted trends for future demand and revenue?  
 
----
+</details>
 
-## Product Lifecycle Profitability Analysis
+---
+<details>
+<summary id="product-lifecycle-profitability-analysis"> Product Lifecycle Profitability Analysis</summary>
 
 This report dives deep into Adventure’s sales performance, helping decision-makers:  
 - Identify growth opportunities  
@@ -39,8 +43,12 @@ This report dives deep into Adventure’s sales performance, helping decision-ma
 
 By tracking performance across products, geographies, and customer segments, the dashboard provides **actionable insights into business performance**.
 
+</details>
+
 ---
-## ETL Process
+<details>
+<summary id="etl-process"> ETL Process</summary>
+
 The analysis followed a structured **ETL pipeline**:
 
 ### - Data Extraction
@@ -65,8 +73,11 @@ The analysis followed a structured **ETL pipeline**:
 **Schema Diagram:**  
 <img width="695" height="496" alt="Schema" src="https://github.com/user-attachments/assets/cd3c5277-38b2-4be7-8c16-9db87e5e09a9" />
 
+</details>
 ---
-##  Dashboard Overview
+
+<details>
+<summary id="dashboard-overview">Dashboard Overview</summary>
 
 ### -  Sales Performance Dashboard
 <img width="865" height="490" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/9acefa34-adec-4ae1-b9fa-f66959db7206" />
@@ -77,9 +88,12 @@ The analysis followed a structured **ETL pipeline**:
 ### -  Geographical Analysis Dashboard
 <img width="770" height="436" alt="Geographical Dashboard" src="https://github.com/user-attachments/assets/09d44654-7901-4118-9e0f-1efef6ce1401" />
 
+</details>
 ---
 
-##  Results / Insights
+<details>
+<summary id="results--insights"> Results / Insights</summary>
+
 
 - **Top Revenue Drivers**: Bikes, Clothing, and Accessories (profit margin ~9.06%, ≈ $8.8M)  
 - **Regional Performance**: Pacific region leads with ~32.36% profit margin  
@@ -98,9 +112,12 @@ The analysis followed a structured **ETL pipeline**:
 - North America: 1.8% margin  
 - Southern America: -1.92% margin  
 
+
+</details>
 ---
 
-## Recommendations
+<details>
+<summary id="recommendations"> Recommendations</summary>
 
 Based on the insights, the following strategic actions are recommended:
 
@@ -125,6 +142,7 @@ Based on the insights, the following strategic actions are recommended:
    - Prepare inventory and marketing campaigns ahead of Q4 peak sales.  
    - Diversify product offerings to mitigate seasonal revenue declines.  
 
+</details>
 ---
 
 ![Image](https://github.com/user-attachments/assets/a2957299-6c8f-469a-bcb7-bfd7e3273289)
