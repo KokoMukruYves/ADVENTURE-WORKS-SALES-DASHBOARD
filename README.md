@@ -6,7 +6,8 @@
 - [Product Lifecycle Profitability Analysis](#product-lifecycle-profitability-analysis)  
 - [ETL Process](#etl-process)  
 - [Dashboard Overview](#dashboard-overview)  
-- [Results / Insights](#results--insights)  
+- [Results / Insights](#results--insights)
+- [Recommendations ](#recommendations)
 
 
 ---
