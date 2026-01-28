@@ -11,7 +11,7 @@
 
 ---
 
-# Introduction 
+## Introduction 
 
 Adventure Works is a global company that manufactures and retails bikes and related components. The company sells its products in North America, Europe, and Oceania.  
 
@@ -28,9 +28,8 @@ Key business questions addressed:
 
 ---
 
-# Product Lifecycle Profitability Analysis
-
 ## Product Lifecycle Profitability Analysis
+
 This report dives deep into Adventure’s sales performance, helping decision-makers:  
 - Identify growth opportunities  
 - Manage seasonal revenue declines  
