@@ -1,17 +1,5 @@
   #                                   ADVENTURE WORKS SALES DASHBOARD
 
-<summary> Table of Contents</summary>
-
-- [Introduction](#introduction)  
-- [Product Lifecycle Profitability Analysis](#product-lifecycle-profitability-analysis)  
-- [ETL Process](#etl-process)  
-- [Dashboard Overview](#dashboard-overview)  
-- [Results / Insights](#results--insights)
-- [Recommendations ](#recommendations)
-
-
----
-
 
 <details>
 <summary id="introduction"> Introduction</summary>
