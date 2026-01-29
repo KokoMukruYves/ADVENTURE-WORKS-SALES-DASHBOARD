@@ -156,7 +156,6 @@ Based on the insights, the following strategic actions are recommended:
 </details>
 
 ---
-<details>
 
 ![Image](https://github.com/user-attachments/assets/a2957299-6c8f-469a-bcb7-bfd7e3273289)
 
