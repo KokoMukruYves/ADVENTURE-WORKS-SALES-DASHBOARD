@@ -82,13 +82,13 @@ The analysis followed a structured **ETL pipeline**:
 
 <summary id="dashboard-overview">Dashboard Overview</summary>
 
-### -  Sales Performance Dashboard
+###  Sales Performance Dashboard
 <img width="865" height="490" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/9acefa34-adec-4ae1-b9fa-f66959db7206" />
 
-### -  Profitability Analysis Dashboard
+###  Profitability Analysis Dashboard
 <img width="768" height="438" alt="Profitability Dashboard" src="https://github.com/user-attachments/assets/af312a7c-07d6-42e0-9df1-35e71cdfa453" />
 
-### -  Geographical Analysis Dashboard
+###  Geographical Analysis Dashboard
 <img width="770" height="436" alt="Geographical Dashboard" src="https://github.com/user-attachments/assets/09d44654-7901-4118-9e0f-1efef6ce1401" />
 
 </details>
