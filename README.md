@@ -1,6 +1,11 @@
   #                                   ADVENTURE WORKS SALES DASHBOARD
 
 <img width="175" height="163" alt="Image" src="https://github.com/user-attachments/assets/03f1258a-6c39-491e-9600-9c6f7ae59c26" />
+
+ ## Product Lifecycle Profitability Analysis</summary
+
+
+
 <details>
 <summary id="introduction"> Introduction</summary>
 
@@ -18,15 +23,6 @@ Key business questions addressed:
 - Which product generates the most revenue?  
 - How does sales growth vary over time?  
 - What are the forecasted trends for future demand and revenue?  
-
-</details>
-
----
-<details>
-  
-<summary id="product-lifecycle-profitability-analysis"> Product Lifecycle Profitability Analysis</summary>
-
-
 
 
 This report dives deep into Adventure’s sales performance, helping decision-makers:  
