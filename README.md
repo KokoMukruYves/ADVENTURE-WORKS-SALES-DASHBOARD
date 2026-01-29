@@ -2,7 +2,7 @@
 
 <img width="175" height="163" alt="Image" src="https://github.com/user-attachments/assets/03f1258a-6c39-491e-9600-9c6f7ae59c26" />
 
- ## Product Lifecycle Profitability Analysis</summary
+ ## Product Lifecycle Profitability Analysis
 
 
 
