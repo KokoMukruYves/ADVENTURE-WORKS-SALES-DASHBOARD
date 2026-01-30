@@ -2,6 +2,8 @@
 
 <img width="175" height="163" alt="Image" src="https://github.com/user-attachments/assets/03f1258a-6c39-491e-9600-9c6f7ae59c26" />
 
+https://app.powerbi.com/links/K2dMandbYQ?ctid=941bbf5f-f2c0-4875-a24c-6907865d251a&pbi_source=linkShare
+
  ## Product Lifecycle Profitability Analysis
 
 
